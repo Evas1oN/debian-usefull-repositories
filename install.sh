@@ -1,3 +1,3 @@
 #!/bin/bash
 
-sudo mv -v repositories/* /etc/apt/sources.list.d/
+sudo cp -f -v repositories/* /etc/apt/sources.list.d/

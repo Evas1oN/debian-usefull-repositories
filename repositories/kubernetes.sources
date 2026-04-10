@@ -2,7 +2,8 @@ Types: deb
 URIs: https://pkgs.k8s.io/core:/stable:/v1.34/deb/
 Suites: /
 Architectures: amd64
-Signed-By: -----BEGIN PGP PUBLIC KEY BLOCK-----
+Signed-By:
+ -----BEGIN PGP PUBLIC KEY BLOCK-----
  Version: GnuPG v1.4.5 (GNU/Linux)
  
  mQENBGMHoXcBCADukGOEQyleViOgtkMVa7hKifP6POCTh+98xNW4TfHK/nBJN2sm
