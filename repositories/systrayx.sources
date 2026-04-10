@@ -1,8 +1,9 @@
 Types: deb
 URIs: https://download.opensuse.org/repositories/home:/Ximi1970:/Mozilla:/Add-ons/Debian_Testing/
 Suites: ./
-Components: 
-Signed-By:  -----BEGIN PGP PUBLIC KEY BLOCK-----
+Components:
+Signed-By:
+ -----BEGIN PGP PUBLIC KEY BLOCK-----
  Version: GnuPG v1.4.5 (GNU/Linux)
  
  mQENBFiAzNUBCACp47GhDkjTlmVQDpr9RNDTM8r3Aj6IEJq+cYdHADFYgqn4EKJu
